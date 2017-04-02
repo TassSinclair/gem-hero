@@ -1,3 +1,4 @@
-**.blend1
+*.blend1
 *.mtl
 *.obj
+.DS_Store
