@@ -20,8 +20,17 @@ Trays:
   - 2-gem-line
   - 3-gem-curve, 3-gem-line, 3-gem-triangle
   - 4-gem-curve, 4-gem-diamond, 4-gem-line, 4-gem-shift, 4-gem-tripoint
-  - 5-gem-arrow, 5-gem-bend, 5-gem-line, 5-gem-shift
-  - 5-gem-snake, 5-gem-split-curve, 5-gem-split-line, <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-wave.png" /> 5-gem-wave
+  - 
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-arrow.png" /> 5-gem-arrow,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-bend.png" /> 5-gem-bend,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-line.png" /> 5-gem-line,
+  <br />
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-shift.png" /> 5-gem-shift,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-snake.png" /> 5-gem-snake,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-split-curve.png" /> 5-gem-split-curve,
+  <br />
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-split-line.png" /> 5-gem-split-line,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-wave.png" /> 5-gem-wave
 
 ### Assemble 
   <img alt="Joining trays" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/trays/joining-trays.png" /> 
