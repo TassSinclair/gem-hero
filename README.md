@@ -1,4 +1,4 @@
-<img alt="Gem Hero" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/logo.png" />
+<img alt="Gem Hero" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/logo.png" width="500" />
 
 A competitive board game played with gem sequences on a hexagonal grid.
 
@@ -36,6 +36,4 @@ Trays:
   - 5-gem-wave
 
 ### Assemble 
-  <img alt="Separated tiles" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/trays/separated.png" /> 
-  ➡️
-  <img alt="Joined tiles" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/trays/separated.png" />
+  <img alt="Joining trays" src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/trays/joining-trays.png" /> 
