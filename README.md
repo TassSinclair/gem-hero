@@ -19,9 +19,13 @@ Trays:
   - 1-gem
   - 2-gem-line
   - 3-gem-curve, 3-gem-line, 3-gem-triangle
-  - 4-gem-curve, 4-gem-diamond, 4-gem-line, 4-gem-shift, 4-gem-tripoint
-  - 
-  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-arrow.png" /> 5-gem-arrow,
+  - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-curve.png" /> 4-gem-curve, 
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-diamond.png" /> 4-gem-diamond, 
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-line.png" /> 4-gem-line, 
+  <br />
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-tripoint.png" /> 4-gem-tripoint,
+  <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-wave.png" /> 4-gem-wave
+  - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-arrow.png" /> 5-gem-arrow,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-bend.png" /> 5-gem-bend,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-line.png" /> 5-gem-line,
   <br />
