@@ -16,8 +16,8 @@ Trays:
   - 6 36-cup slice trays
   - 6 37-cup corner trays
 - Gems (one full set of 18 pieces per player, for up to six players)
-  - 1-gem
-  - 2-gem-line
+  - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/1-gem.png" /> 1-gem
+  - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/2-gem-line.png" /> 2-gem-line
   - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-curve.png" /> 3-gem-curve,
     <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-line.png" /> 3-gem-line,
     <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-triangle.png" /> 3-gem-triangle
