@@ -25,6 +25,7 @@ Trays:
   <br />
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-tripoint.png" /> 4-gem-tripoint,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-wave.png" /> 4-gem-wave
+  
   - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-arrow.png" /> 5-gem-arrow,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-bend.png" /> 5-gem-bend,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/5-gem-line.png" /> 5-gem-line,
