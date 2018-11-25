@@ -18,10 +18,10 @@ Trays (just center and slice trays for 2 to 4 player games, all trays for 6 play
 Gems (one full set of 18 pieces per player, for up to 6 players):
 - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/1-gem.png" /> 1-gem
 - <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/2-gem-line.png" /> 2-gem line
-- <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-triangle.png" /> 3-gem bunch
+- <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-bunch.png" /> 3-gem bunch
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-curve.png" /> 3-gem curve,
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/3-gem-line.png" /> 3-gem line,
-- <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-diamond.png" /> 4-gem bunch, 
+- <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-bunch.png" /> 4-gem bunch, 
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-curve.png" /> 4-gem curve, 
   <img src="https://raw.githubusercontent.com/TassSinclair/GemHero/master/gems/4-gem-line.png" /> 4-gem line, 
   <br />
