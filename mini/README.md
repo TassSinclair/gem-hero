@@ -2,9 +2,14 @@
 
 Mini versions of the gems and trays. Made with OpenSCAD this time.
 
-* Slightly smaller.
-* More mathmatically accurate.
-* Same great gems.
+- Slightly smaller.
+- More mathematically accurate.
+- Same great gems.
+
+## Makefile
+Requires `openscad` and `imagemagick`.
+- `make gems` to generate `.stl` and `.png` files of gems.
+- `make trays` to generate `.stl` and `.png` files of trays.
 
 ## Gems
 - <img src="https://raw.githubusercontent.com/tasssinclair/gem-hero/master/mini/1-gem.png" style="width:30px"/> 1-gem
