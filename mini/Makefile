@@ -1,11 +1,11 @@
 BASE_NAME := ${basename ${FILE_NAME}}
 
-all-gems:
+gems:
 	for FILE_NAME in *-gem*.scad; do \
 		$(MAKE) FILE_NAME=$$FILE_NAME one ; \
 	done
 
-all-trays:
+trays:
 	for FILE_NAME in *-tray*.scad; do \
 		$(MAKE) FILE_NAME=$$FILE_NAME one ; \
 	done
